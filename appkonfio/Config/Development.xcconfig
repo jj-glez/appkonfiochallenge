@@ -1,0 +1,19 @@
+//
+//  Development.xcconfig
+//  appkonfio
+//
+//  Created by Jorge on 12/11/19.
+//  Copyright © 2019 pagatodo. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+
+// MARK: - App data
+PRODUCT_BUNDLE_IDENTIFIER   = com.konfio.appkonfio
+DISPLAY_NAME                = Konfio Dev
+APP_ICON                    = AppIcon-Dev
+
+// MARK: - URLs
+server_url                  = www.development.com
+timeout_interval            = 120
+protocol                    = https

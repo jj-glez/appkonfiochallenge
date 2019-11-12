@@ -1,0 +1,19 @@
+//
+//  Production.xcconfig
+//  appkonfio
+//
+//  Created by Jorge on 12/11/19.
+//  Copyright © 2019 pagatodo. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+
+// MARK: - App data
+PRODUCT_BUNDLE_IDENTIFIER   = com.konfio.appkonfio
+DISPLAY_NAME                = Konfio
+APP_ICON                    = AppIcon
+
+// MARK: - URLs
+server_url                  = www.production.com
+timeout_interval            = 120
+protocol                    = https
